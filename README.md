@@ -48,6 +48,6 @@ This is my attempt at recreating the classic water sort puzzle game that try by 
 [Unity]: https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white
 [Unity-url]: https://unity.com/
 [CSharp]: https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white
-[InGameImg1]: image/Ingame_Image1.png
-[InGameImg2]: image/Ingame_Image2.png
-[InGameImg3]: image/VictoryScreen.png
+[InGameImg1]: imageForREADME/Ingame_Image1.png
+[InGameImg2]: imageForREADME/Ingame_Image2.png
+[InGameImg3]: imageForREADME/VictoryScreen.png
