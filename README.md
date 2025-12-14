@@ -1,6 +1,5 @@
 
 <a id="readme-top"></a>
-<h3 align="center">Sonat Intern Test</h3>
 <h2 align="center">Water Sort Puzzle</h2>
 
 
